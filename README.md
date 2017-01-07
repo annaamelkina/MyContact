@@ -58,8 +58,9 @@ Kui kontakti pole leitud, siis programm viskab teate: "No Search Result. Cannot 
 Programm võimaldab sorteerida kontaktid tabelis tähestikulises järjekorras (A->Z) või vastupidi (Z->A). 
 Selleks tuleb vajutada tabelis veergude päised. Esimene klõps järjestab tähestikulises järjekorras, teine klõps vastupidises järjekorras.
 
+# Litsents
 
-
+Selle projekti kood on Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) litsentsi all. 
 
 
 
